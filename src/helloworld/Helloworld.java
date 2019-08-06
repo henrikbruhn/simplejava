@@ -16,7 +16,8 @@ public class Helloworld {
      */
     public static void main(String[] args) {
         System.out.println("hello world");
-        System.out.println("blablablaaaa");
+        System.out.println("noget mere fornuftigt...");
+        System.out.println("en linje");
     }
     
 }
