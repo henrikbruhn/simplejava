@@ -18,6 +18,9 @@ public class Helloworld {
         System.out.println("hello world");
         System.out.println("noget mere fornuftigt...");
         System.out.println("en linje");
+        
+        NewClass obj = new NewClass("mere hallo");
+        System.out.println(obj);
     }
     
 }
